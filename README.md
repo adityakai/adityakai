@@ -1,4 +1,4 @@
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7BC&multiline=true&width=435&lines=Hi+I'm+)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7BC&multiline=true&width=435&lines=Hi+I'm+Aditya)](https://git.io/typing-svg)
 
 **Full Stack Developer · Healthtech Founder · Based in India**
 
