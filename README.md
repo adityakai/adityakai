@@ -1,4 +1,4 @@
-<h1>Hi I'm <i>Aditya</i></h1>
+<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7BC&multiline=true&width=435&lines=Hi+I'm+)](https://git.io/typing-svg)<i>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7BC&multiline=true&width=435&lines=Aditya)](https://git.io/typing-svg)</i></h1>
 
 **Full Stack Developer · Healthtech Founder · Based in India**
 
