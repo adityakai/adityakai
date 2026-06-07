@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7BC&multiline=true&width=435&lines=Hi+I'm+Aditya)](https://git.io/typing-svg)
-
+---
 **Full Stack Developer · Healthtech Founder · Based in India**
-
 ### Tech Stack
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
