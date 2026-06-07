@@ -2,7 +2,7 @@
 
 **Full Stack Developer · Healthtech Founder · Based in India**
 
-### Tech
+### Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
