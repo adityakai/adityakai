@@ -22,7 +22,7 @@
 
 Full Stack Engineer building at the intersection of product and AI. Currently growing [Kraevo](https://kraevo.in) — a healthtech platform for Indian hospitals — and exploring the frontier of RAG pipelines, LLM integration, and embedding systems.
 
-My stack is PERN + TypeScript. I think in systems, ship in sprints, and run Arch Linux with Hyprland as my daily driver.
+I think in systems, ship in sprints, and run Arch Linux with Hyprland as my daily driver.
 
 **Open To:** Remote AI / Full Stack Engineering Internships · Open Source Collaboration
 
@@ -32,56 +32,8 @@ My stack is PERN + TypeScript. I think in systems, ship in sprints, and run Arch
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github&theme=dark&perline=5" />
   </a>
-</p>
-<p align="center"><sub>Languages</sub></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-  </a>
-</p>
-<p align="center"><sub>Frontend</sub></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,supabase&theme=dark" />
-  </a>
-</p>
-<p align="center"><sub>Backend & Databases</sub></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux,vercel&theme=dark" />
-  </a>
-</p>
-<p align="center"><sub>Cloud, DevOps & Tooling</sub></p>
-
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakait&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&count_private=true" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakait&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&langs_count=6" height="175" />
-</p>
-
----
-
-## ◈ Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityakait&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityakait/adityakait/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
