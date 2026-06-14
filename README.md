@@ -38,14 +38,6 @@ I think in systems, ship in sprints, and run Arch Linux with Hyprland as my dail
 
 ---
 
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityakai/adityakai/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
 <p align="center">
   <sub><em>"The best engineers don't just write code — they engineer outcomes."</em></sub>
 </p>
