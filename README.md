@@ -13,15 +13,15 @@
 
 Full Stack Engineer building at the intersection of product and AI. Currently exploring the frontier of RAG pipelines, LLM integration, and embedding systems.
 
-**Open To:** Remote AI / Full Stack Engineering Internships · Open Source Collaboration
+<i>**Open To:** Remote AI / Full Stack Engineering Internships · Open Source Collaboration</i>
 
 
 
 ## ◈ Tech Stack
 
-<p align="center">
+<p align='center'>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github,docker,linux,sentry&theme=dark" />
   </a>
 </p>
 
