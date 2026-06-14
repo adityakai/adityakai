@@ -25,7 +25,7 @@ Full Stack Engineer building at the intersection of product and AI. Currently ex
   </a>
 </p>
 
-
+<hr>
 
 <p align="center">
   <sub><em>"The best engineers don't just write code — they engineer outcomes."</em></sub>
