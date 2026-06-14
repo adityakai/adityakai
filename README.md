@@ -32,7 +32,7 @@ Full Stack Engineer building at the intersection of product and AI. Currently ex
 </p>
 
 <p align="center">
-  <a href="mailto:adityakaithwas@proton.me">
+  <a href="mailto:adityakaithwas@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=protonmail&logoColor=white" />
   </a>
   &nbsp;
