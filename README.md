@@ -8,7 +8,6 @@
   </a>
 </p>
 
----
 
 ## ◈ About
 
@@ -16,7 +15,7 @@ Full Stack Engineer building at the intersection of product and AI. Currently ex
 
 **Open To:** Remote AI / Full Stack Engineering Internships · Open Source Collaboration
 
----
+
 
 ## ◈ Tech Stack
 
@@ -26,7 +25,7 @@ Full Stack Engineer building at the intersection of product and AI. Currently ex
   </a>
 </p>
 
----
+
 
 <p align="center">
   <sub><em>"The best engineers don't just write code — they engineer outcomes."</em></sub>
