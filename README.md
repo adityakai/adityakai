@@ -38,6 +38,14 @@ I think in systems, ship in sprints, and run Arch Linux with Hyprland as my dail
 
 ---
 
+## ◈ Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityakai/adityakai/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 <p align="center">
   <sub><em>"The best engineers don't just write code — they engineer outcomes."</em></sub>
 </p>
@@ -51,7 +59,7 @@ I think in systems, ship in sprints, and run Arch Linux with Hyprland as my dail
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/adityakait" target="_blank">
+  <a href="https://github.com/adityakai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-5B21B6?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
