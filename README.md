@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/us2uq8XsFVq.gif" width="700" alt="Demo" />
+  <img src="./shorekeeper.gif" width="700" alt="Demo" />
 </p>
 
 ## ◈ About
