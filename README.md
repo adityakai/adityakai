@@ -12,7 +12,7 @@
 
 ## ◈ About
 
-Full Stack Engineer building at the intersection of product and AI. Currently growing [Kraevo](https://kraevo.in) — a healthtech platform for Indian hospitals — and exploring the frontier of RAG pipelines, LLM integration, and embedding systems.
+Full Stack Engineer building at the intersection of product and AI. Currently growing [Kraevo](https://kraevo.in) - a healthtech platform for Indian hospitals - and exploring the frontier of RAG pipelines, LLM integration, and embedding systems.
 
 I think in systems, ship in sprints, and run Arch Linux with Hyprland as my daily driver.
 
