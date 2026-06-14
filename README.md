@@ -8,14 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA-SRM%20University%20%E2%80%A2%202027-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nagpur%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-6D28D9?style=flat-square" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=adityakait&style=flat-square&color=7C3AED&label=Profile+Views" />
-</p>
-
 ---
 
 ## ◈ About
